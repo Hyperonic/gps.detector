@@ -21,7 +21,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
            id="com.butterflyeffect.plugins"
-      version="0.1">
+      version="0.1.1">
 
     <name>Network Information</name>
     <description>Cordova Network Information Plugin</description>
